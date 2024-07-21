@@ -53,6 +53,7 @@
 .recommended-book-image {
     width: 25vw;
 }
+
 .recommended-books-card-container {
     margin-bottom: 12px;
 }
@@ -70,5 +71,35 @@
 .recommended-book-type {
     color: #e4e7eb;
     font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.detailed-book-container {
+    height: 100vh;
+    background-color: #1b1b1b;
+    padding: 24px;
+}
+
+.detailed-book-image {
+    width: 25vh;
+}
+
+.detailed-book-name {
+    color: #ffffff;
+    font-size: 22px;
+    font-family: "Bree Serif";
+    margin-top: 22px;
+}
+
+.detailed-book-author {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-family: "Bree Serif";
+}
+
+.detailed-book-description {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-weight: normal;
     font-size: 14px;
 }
