@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.popular-book-bg-container {
+    background-color: #1b1b1b;
+    padding: 25px;
+    height: 100vh;
+}
+
+.popular-book-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.popular-book-card-container {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+}
+
+.popular-book-card-image {
+    width: 30vw;
+}
+
+.header-description {
+    padding: 20px;
+}
+
+.book-name {
+    font-size: 18px;
+    font-family: "Bree Serif";
+    color: #183b56;
+}
+
+.book-category {
+    font-size: 14px;
+    font-family: "Bree Serif";
+    color: #06070d;
+}
+
+.book-author {
+    font-size: 12px;
+    font-family: "Bree Serif";
+    color: #183b56;
+}
+
+.recommended-book-heading {
+    color: #ffffff;
+    font-size: 22px;
+    font-family: "Bree Serif";
+    margin-top: 15px;
+}
+
+.recommended-book-image {
+    width: 25vw;
+}
+.recommended-books-card-container {
+    margin-bottom: 12px;
+}
+
+.recommended-book-description {
+    padding: 18px;
+}
+
+.recommended-book-title {
+    font-size: 18px;
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+}
+
+.recommended-book-type {
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
